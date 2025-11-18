@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/thiagofts252-coder">
-    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofts252-coder&show_icons=true&theme-radical&includ_all_comits-none&count_private-true"/>
+    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=thiagofts252-coder&show_icons=true&theme=radical&includ_all_comits-dois&count_private-true"/>
      <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagofts252-coder&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
